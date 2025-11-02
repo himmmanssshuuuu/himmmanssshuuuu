@@ -15,4 +15,3 @@
 
 ![Github Contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=saumitrapatil&show_icons=true&theme=ocean_dark&border_radius=10&bg_color=15,0d1117,1a1b26)
